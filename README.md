@@ -1,2 +1,2 @@
 # Halo-CMU
-A CMU student's void repo
+**A CMU student's void repo**
